@@ -1,6 +1,6 @@
 # counter
 
-A new Flutter project.
+Aplicación en dart flutter para el manejo del state mediante provider y el patrón bloc.
 
 ## Getting Started
 
